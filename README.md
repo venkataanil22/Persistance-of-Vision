@@ -1,0 +1,2 @@
+# Persistance-of-Vision
+Persistence of vision refers to the optical illusion whereby multiple discrete images blend into a single cohesive image in the human mind. Similar concept is implemented through our project. An acrylic ring is rotated on Y-axis and a LED strip is pasted on the thickness across the ring. And when the ring is rotated speed enough the programmed LEDs would seem like displaying an image but they were displaying only a part of the image at a particular point in time.
